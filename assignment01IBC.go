@@ -1,3 +1,10 @@
+package assignment01IBC
+
+import (
+	"crypto/sha256"
+	"fmt"
+)
+
 type Block struct {
 	//Hash
 	//Data
